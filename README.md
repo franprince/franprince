@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/franprince_" target="blank"><img src="https://img.shields.io/twitter/follow/franprince_?logo=twitter&style=for-the-badge" alt="franprince_" /></a> </p>
 
-- 🔭 I’m currently working on a [minesweeper](https://github.com/franprince/buscaminas)
-
 - 🌱 I’m currently learning **Typescript**
 
 - 📫 Email me at **hey@franprince.dev**
